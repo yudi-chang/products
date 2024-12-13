@@ -1,31 +1,50 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "name": "Product A",
+    "price": 19.99,
+    "tags": ["Electronics", "Sale", "Popular"]
+  },
+  {
+    "id": 2,
+    "name": "Product B",
+    "price": 39.99,
+    "tags": ["Clothing", "New", "Trendy"]
+  },
+  {
+    "id": 3,
+    "name": "Product C",
+    "price": 49.99,
+    "tags": ["Furniture", "Home", "Luxury"]
+  },
+  {
+    "id": 4,
+    "name": "Product D",
+    "price": 29.99,
+    "tags": ["Kitchen", "Essential", "New"]
+  },
+  {
+    "id": 5,
+    "name": "Product E",
+    "price": 9.99,
+    "tags": ["Accessories", "Bestseller", "Trendy"]
+  },
+  {
+    "id": 6,
+    "name": "Product F",
+    "price": 59.99,
+    "tags": ["Sports", "Active", "Outdoor"]
+  },
+  {
+    "id": 7,
+    "name": "Product G",
+    "price": 99.99,
+    "tags": ["Gaming", "New", "Popular"]
+  },
+  {
+    "id": 8,
+    "name": "Product H",
+    "price": 149.99,
+    "tags": ["Outdoors", "Adventure", "Luxury"]
   }
-}
+]
