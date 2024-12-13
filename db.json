@@ -2,8 +2,5 @@
   {
     "id": 1,
     "name": "Product A",
-    "price": 19.99,
-    "tags": ["Electronics", "Sale", "Popular"],
-    "image": "https://via.placeholder.com/150?text=Product+A"
   }
 ]
