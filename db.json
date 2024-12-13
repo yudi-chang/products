@@ -1,5 +1,5 @@
 {
-  "data": [
+  "products": [
     {
       "id": 1,
       "name": "Product A",
@@ -35,26 +35,20 @@
       "tags": ["Accessories", "Bestseller", "Trendy"],
       "image": "https://via.placeholder.com/150?text=Product+E"
     },
+  ],
+  "comments": [
     {
-      "id": 6,
-      "name": "Product F",
-      "price": 59.99,
-      "tags": ["Sports", "Active", "Outdoor"],
-      "image": "https://via.placeholder.com/150?text=Product+F"
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     },
     {
-      "id": 7,
-      "name": "Product G",
-      "price": 99.99,
-      "tags": ["Gaming", "New", "Popular"],
-      "image": "https://via.placeholder.com/150?text=Product+G"
-    },
-    {
-      "id": 8,
-      "name": "Product H",
-      "price": 149.99,
-      "tags": ["Outdoors", "Adventure", "Luxury"],
-      "image": "https://via.placeholder.com/150?text=Product+H"
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
